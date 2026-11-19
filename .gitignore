@@ -1,2 +1,4 @@
 myvenv
 __pycache__
+insurance_premium_prediction/myenv
+./insurance_premium_prediction/__pycache__
